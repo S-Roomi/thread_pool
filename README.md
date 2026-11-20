@@ -1,4 +1,4 @@
-# thread-pool-bench
+# thread_pool
 
 A simple fixed-size thread pool in C++17. It is tested for correctness and
 benchmarked by counting primes, compared against a single-threaded version.
